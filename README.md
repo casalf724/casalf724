@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfredo Castañeda</h1>
 <h3 align="center">A passionate Data Scientist from Miami Florida</h3>
 
-- 🔭 I’m currently working on [Scrum Chatbot][(https://chatbot-deploy-7k76.onrender.com)
+- 🔭 I’m currently working on [Scrum Chatbot][(https://chatbot-deploy-7k76.onrender.com)]
 
 - 🌱 I’m currently learning **Azure and AI Solutions from Microsoft**
 
